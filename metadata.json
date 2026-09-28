@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Mobile — Command Center",
+  "description": "Defenzivní mobilní bezpečnostní platforma (SOC v kapse) pro Android 15. MITRE ATT&CK Mobile katalog, incident cases, playbooks, test coverage, threat intel, statický souborový skener s entropií a IOC, AI copilot a etická laboratoř.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
